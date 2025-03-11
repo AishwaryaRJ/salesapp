@@ -1,0 +1,25 @@
+Both S1 and S2
+
+Compose the component 'X' by wrapping it in a container component
+
+Function1
+
+It may fail to update the counter
+
+
+A,B,C
+
+Both React element and Root DOM node
+
+const prevCountRef = useRef();
+ useEffect(() => {
+ prevCountRef.current = count;
+ });
+ const prevCount = prevCountRef.current;
+
+ Make the component fully controlled or fully uncontrolled with a key
+
+ The use of the defaultValue argument
+
+ Both A and B are fine. The children receive the state as props
+

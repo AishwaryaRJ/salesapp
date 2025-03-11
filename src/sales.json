@@ -1,0 +1,18 @@
+[
+    {
+      "id": 1,
+      "product": "Product A",
+      "saleTotal": 100
+    },
+    {
+      "id": 2,
+      "product": "Product B",
+      "saleTotal": 150
+    },
+    {
+      "id": 3,
+      "product": "Product C",
+      "saleTotal": 200
+    }
+  ]
+  
